@@ -11,7 +11,7 @@
 /* Nav */
 
 .site-nav {
-  float: right;
+  float: left;
 
   .menu-icon {
     display: none;
@@ -20,7 +20,7 @@
   .page-link {
     display: inline;
     padding: 1px 0;
-    margin-left: 1em;
+//    margin-left: 1em;
 
     &:hover {
       color: $white-color;
