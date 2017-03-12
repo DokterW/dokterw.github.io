@@ -2,7 +2,7 @@
 title:       Dokter's Notes
 author:      Dokter Waldijk
 description: ":rocket: A responsive Jekyll theme based on my personal internet site"
-baseurl:     "/"
+baseurl:     ""
 url:         "https://dokterw.github.io"
 
 # Social Links
