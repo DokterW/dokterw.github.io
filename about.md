@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This customized Jekyll theme is made by [Masha Safina](http://masha.space/) for personal blogging purposes.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Theme is available for use at [Github](https://github.com/mashlo/captains-log) and has few color schemes options.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Placeholder copy is generated with [Star Trek Ipsum](http://vlad-saling.github.io/star-trek-ipsum/).

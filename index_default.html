@@ -3,9 +3,14 @@ layout: default
 ---
 
 <div class="home">
-
-<!--<h1 class="page-heading"></h1>-->
-
-  Hello World!
-
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h1>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h1>
+        <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
