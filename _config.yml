@@ -1,7 +1,7 @@
 # Site settings
 title:       Dokter's Notes
 author:      Dokter Waldijk
-description: ":rocket: A responsive Jekyll theme based on my personal internet site"
+description: "Privacy, cryptography, security, code & possible rants."
 baseurl:     ""
 url:         "https://dokterw.github.io"
 
