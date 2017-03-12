@@ -1,6 +1,6 @@
 .site-header {
   position: relative;
-  padding: 1em 0 4em;
+  padding: 1em 0 2em;
 }
 
 .site-title {
@@ -21,7 +21,7 @@
     display: inline;
     padding: 1px 0;
     margin-left: 1em;
-    
+
     &:hover {
       color: $white-color;
     }
