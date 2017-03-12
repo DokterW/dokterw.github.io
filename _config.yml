@@ -1,7 +1,7 @@
 # Site settings
 title:       Dokter's Notes
 author:      Dokter Waldijk
-description: "Privacy, cryptography, security, code & possible rants."
+description: "Privacy, cryptography, security, code & rants."
 baseurl:     ""
 url:         "https://dokterw.github.io"
 
