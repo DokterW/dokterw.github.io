@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+[Dokter Waldijk](https://github.com/dokterw) works in IT with [EDI](https://en.wikipedia.org/wiki/Electronic_data_interchange). He is also a washed up, disgruntled [gonzo journalist](https://en.wikipedia.org/wiki/Gonzo_journalism) filled with fear and loathing after a few-year-stint in the field.
 
-This customized Jekyll theme is made by [Masha Safina](http://masha.space/) for personal blogging purposes.
+The Dokter has a degree Bachelor of Journalism, specialised in History and [International Relations](https://en.wikipedia.org/wiki/International_relations).
 
-Theme is available for use at [Github](https://github.com/mashlo/captains-log) and has few color schemes options.
+Privacy and cryptography has been a huge interest and passion for the Dokter for a while. Even before he got his first computer running [DOS](https://en.wikipedia.org/wiki/DOS).
 
-Placeholder copy is generated with [Star Trek Ipsum](http://vlad-saling.github.io/star-trek-ipsum/).
+For the moment the only ~~programming~~ scripting language he knows is [bash scripting](https://en.wikipedia.org/wiki/Shell_script).
